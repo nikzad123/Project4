@@ -8,6 +8,8 @@ public class GitProject1 {
 		
 		System.out.println("Test...");
 		
+		System.out.println("New From Dev Branches...");
+		
 	}
 
 }
